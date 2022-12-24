@@ -4,7 +4,7 @@
 	--color-modified: #dbab09;
 	--color-renamed: #0366d6;
 	--color-conflicted: #f66a0a;
-	--text-color: #24292e;
+	--text-color: #00010B;
 	--text-secondary-color: #6a737d;
 	--text-secondary-color-muted: #bbc0c5;
 	--background-color: #fff;
@@ -44,9 +44,9 @@
 	--box-border-color: #e1e4e8;
 	--box-border-accent-color: #0366d6;
 	--box-selected-background-color: #ebeef1;
-	--box-hover-text-color: #24292e;
+	--box-hover-text-color: #00010B;
 	--box-hover-background-color: #f6f8fa;
-	--box-selected-text-color: #24292e;
+	--box-selected-text-color: #00010B;
 	--box-selected-border-color: #959da5;
 	--box-selected-active-background-color: #0366d6;
 	--box-selected-active-border: none;
@@ -60,7 +60,7 @@
 	--commit-warning-badge-border-color: #d1d5da;
 	--commit-warning-badge-icon-color: var(--warning-badge-icon-color);
 	--win32-title-bar-height: 28px;
-	--win32-title-bar-background-color: #24292e;
+	--win32-title-bar-background-color: #00010B;
 	--darwin-title-bar-height: 22px;
 	--spacing: 10px;
 	--spacing-double: calc(var(--spacing) * 2);
@@ -75,8 +75,8 @@
 	--shadow-color: rgba(71, 83, 95, 0.19);
 	--base-box-shadow: 0 2px 7px var(--shadow-color);
 	--toolbar-height: 50px;
-	--toolbar-background-color: #24292e;
-	--toolbar-border-color: #24292e;
+	--toolbar-background-color: #00010B;
+	--toolbar-border-color: #00010B;
 	--toolbar-text-color: #fff;
 	--toolbar-text-secondary-color: #d1d5da;
 	--toolbar-button-color: var(--toolbar-text-color);
@@ -84,15 +84,15 @@
 	--toolbar-button-border-color: black;
 	--toolbar-button-secondary-color: var(--toolbar-text-secondary-color);
 	--toolbar-button-hover-color: #fff;
-	--toolbar-button-hover-background-color: #2f363d;
+	--toolbar-button-hover-background-color: #24187A;
 	--toolbar-button-hover-border-color: var(--toolbar-button-border-color);
-	--toolbar-button-focus-background-color: #2f363d;
+	--toolbar-button-focus-background-color: #24187A;
 	--toolbar-button-active-color: var(--text-color);
 	--toolbar-button-active-background-color: var(--background-color);
 	--toolbar-button-active-border-color: var(--background-color);
-	--toolbar-button-progress-color: #2f363d;
-	--toolbar-button-focus-progress-color: #444d56;
-	--toolbar-button-hover-progress-color: #444d56;
+	--toolbar-button-progress-color: #24187A;
+	--toolbar-button-focus-progress-color: #7455FE;
+	--toolbar-button-hover-progress-color: #7455FE;
 	--toolbar-dropdown-open-progress-color: #e1e4e8;
 	--app-menu-button-color: var(--toolbar-text-color);
 	--app-menu-button-hover-color: var(--toolbar-button-hover-color);
@@ -111,11 +111,11 @@
 	--tab-bar-hover-background-color: #f6f8fa;
 	--tab-bar-count-color: var(--text-color);
 	--tab-bar-count-background-color: #e1e4e8;
-	--list-item-badge-color: #2f363d;
+	--list-item-badge-color: #24187A;
 	--list-item-badge-background-color: #e1e4e8;
-	--list-item-selected-badge-color: #24292e;
+	--list-item-selected-badge-color: #00010B;
 	--list-item-selected-badge-background-color: #d1d5da;
-	--list-item-selected-active-badge-color: #24292e;
+	--list-item-selected-active-badge-color: #00010B;
 	--list-item-selected-active-badge-background-color: #fff;
 	--list-item-hover-background-color: #f6f8fa;
 	--win32-scroll-bar-size: 10px;
@@ -140,11 +140,11 @@
 	--primary-suggested-action-border-color: #c8e1ff;
 	--suggested-action-icon-color: #2188ff;
 	--diff-line-padding-y: 2px;
-	--diff-text-color: #24292e;
+	--diff-text-color: #00010B;
 	--diff-border-color: #e1e4e8;
 	--diff-gutter-color: #e1e4e8;
 	--diff-gutter-background-color: var(--background-color);
-	--diff-line-number-color: #444d56;
+	--diff-line-number-color: #7455FE;
 	--diff-line-number-column-width: 50px;
 	--diff-selected-background-color: #2188ff;
 	--diff-selected-border-color: #005cc5;
@@ -182,14 +182,14 @@
 	--diff-empty-row-background-color: #fafbfc;
 	--diff-empty-row-gutter-background-color: var(--diff-empty-row-background-color);
 	--syntax-variable-color: #6f42c1;
-	--syntax-alt-variable-color: #24292e;
+	--syntax-alt-variable-color: #00010B;
 	--syntax-keyword-color: #d73a49;
 	--syntax-atom-color: #005cc5;
 	--syntax-string-color: #032f62;
 	--syntax-qualifier-color: #6f42c1;
 	--syntax-type-color: #d73a49;
 	--syntax-comment-color: #6a737d;
-	--syntax-tag-color: #22863a;
+	--syntax-tag-color: #F70BFF;
 	--syntax-attribute-color: #6f42c1;
 	--syntax-link-color: #032f62;
 	--syntax-header-color: #0000ff;
@@ -205,7 +205,7 @@
 	--file-warning-background-color: #fff5b1;
 	--file-warning-color: #b08800;
 	--file-warning-border-color: rgba(219, 171, 9, 0.4);
-	--tooltip-background-color: #24292e;
+	--tooltip-background-color: #00010B;
 	--tooltip-color: #f6f8fa;
 	--tooltip-shadow-color: rgba(36, 41, 46, 0.65);
 	--path-segment-background: #f1f8ff;
@@ -692,7 +692,7 @@ pre.error {
 	white-space: pre-wrap;
 	font-family: var(--font-family-monospace);
 	background: rgba(219, 237, 255, .3);
-	color: #24292e;
+	color: #00010B;
 	padding: var(--spacing);
 	border-radius: var(--border-radius);
 	user-select: text;
@@ -715,7 +715,7 @@ header h1 {
 
 header .octicon.error-icon {
 	flex: none;
-	color: #b31d28;
+	color: #FA184B;
 	height: 32px;
 	margin-right: var(--spacing);
 	align-self: flex-start;
