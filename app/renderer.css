@@ -1096,8 +1096,8 @@ http://ethanschoonover.com/solarized/img/solarized-palette.png
 }
 
 :root {
-	--color-new: #28a745;
-	--color-deleted: #d73a49;
+	--color-new: #FB8CFF;
+	--color-deleted: #FA183E;
 	--color-modified: #dbab09;
 	--color-renamed: #6DB2D6;
 	--color-conflicted: #f66a0a;
@@ -1280,25 +1280,25 @@ http://ethanschoonover.com/solarized/img/solarized-palette.png
 	--diff-empty-row-gutter-background-color: var(--diff-empty-row-background-color);
 	--syntax-variable-color: #6f42c1;
 	--syntax-alt-variable-color: #00010B;
-	--syntax-keyword-color: #d73a49;
+	--syntax-keyword-color: #FA183E;
 	--syntax-atom-color: #005cc5;
 	--syntax-string-color: #032f62;
 	--syntax-qualifier-color: #6f42c1;
-	--syntax-type-color: #d73a49;
+	--syntax-type-color: #FA183E;
 	--syntax-comment-color: #6a737d;
 	--syntax-tag-color: #F70BFF;
 	--syntax-attribute-color: #6f42c1;
 	--syntax-link-color: #032f62;
 	--syntax-header-color: #0000ff;
 	--undo-animation-duration: 500ms;
-	--error-color: #d73a49;
+	--error-color: #FA183E;
 	--form-error-background: #ffdce0;
 	--form-error-border-color: #fdaeb7;
 	--form-error-text-color: #9e1c23;
 	--overlay-background-color: rgba(0, 0, 0, 0.4);
 	--dialog-warning-color: #f9c513;
 	--dialog-information-color: #2188ff;
-	--dialog-error-color: #d73a49;
+	--dialog-error-color: #FA183E;
 	--file-warning-background-color: #fff5b1;
 	--file-warning-color: #b08800;
 	--file-warning-border-color: rgba(219, 171, 9, 0.4);
@@ -1311,11 +1311,11 @@ http://ethanschoonover.com/solarized/img/solarized-palette.png
 	--easing-ease-out-back: cubic-bezier(0.175, 0.885, 0.32, 1.275);
 	--easing-ease-in-back: cubic-bezier(0.6, -0.28, 0.735, 0.045);
 	--easing-ease-out-quint: cubic-bezier(0.23, 1, 0.32, 1);
-	--dialog-progress-background: #28a745;
+	--dialog-progress-background: #FB8CFF;
 	--status-pending-color: #dbab09;
-	--status-error-color: #d73a49;
-	--status-success-color: #28a745;
-	--pr-open-icon-color: #28a745;
+	--status-error-color: #FA183E;
+	--status-success-color: #FB8CFF;
+	--pr-open-icon-color: #FB8CFF;
 	--pr-draft-icon-color: #6a737d;
 	--pr-timeline-line-color: var(--box-border-color);
 	--pr-changes-requested-icon-color: #fff;
@@ -1324,8 +1324,8 @@ http://ethanschoonover.com/solarized/img/solarized-palette.png
 	--pr-approved-icon-background-color: #2da44e;
 	--pr-commented-icon-color: var(--md-fg-muted-color);
 	--pr-commented-icon-background-color: #eaeef2;
-	--call-to-action-bubble-border-color: #28a745;
-	--call-to-action-bubble-color: #28a745;
+	--call-to-action-bubble-border-color: #FB8CFF;
+	--call-to-action-bubble-color: #FB8CFF;
 	--title-tool-tip-background-color: rgb(236, 236, 236);
 	--title-tool-tip-shadow: 1px 2px 5px 0px rgb(125, 125, 125, 0.5);
 	--md-border-default-color: #d0d7de;
@@ -1345,8 +1345,8 @@ http://ethanschoonover.com/solarized/img/solarized-palette.png
 }
 
 body.theme-dark {
-	--color-new: #28a745;
-	--color-deleted: #d73a49;
+	--color-new: #FB8CFF;
+	--color-deleted: #FA183E;
 	--color-modified: #dbab09;
 	--color-renamed: #6DB2D6;
 	--color-conflicted: #f66a0a;
@@ -1493,7 +1493,7 @@ body.theme-dark {
 	--syntax-attribute-color: #b392f0;
 	--syntax-link-color: #79b8ff;
 	--syntax-header-color: #f97583;
-	--error-color: #d73a49;
+	--error-color: #FA183E;
 	--form-error-background: #79161a;
 	--form-error-border-color: #86181d;
 	--form-error-text-color: var(--text-color);
@@ -1510,9 +1510,9 @@ body.theme-dark {
 	--path-segment-background: #7455FE;
 	--path-segment-background-focus: #4f5a64;
 	--status-pending-color: #dbab09;
-	--status-error-color: #d73a49;
-	--status-success-color: #28a745;
-	--pr-open-icon-color: #28a745;
+	--status-error-color: #FA183E;
+	--status-success-color: #FB8CFF;
+	--pr-open-icon-color: #FB8CFF;
 	--pr-draft-icon-color: #959da5;
 	--pr-timeline-line-color: #6a737d;
 	--pr-changes-requested-icon-background-color: #da3633;
@@ -6871,8 +6871,8 @@ dialog#push-needs-pull-warning .spin {
 }
 
 :root {
-	--color-new: #28a745;
-	--color-deleted: #d73a49;
+	--color-new: #FB8CFF;
+	--color-deleted: #FA183E;
 	--color-modified: #dbab09;
 	--color-renamed: #6DB2D6;
 	--color-conflicted: #f66a0a;
@@ -7055,25 +7055,25 @@ dialog#push-needs-pull-warning .spin {
 	--diff-empty-row-gutter-background-color: var(--diff-empty-row-background-color);
 	--syntax-variable-color: #6f42c1;
 	--syntax-alt-variable-color: #00010B;
-	--syntax-keyword-color: #d73a49;
+	--syntax-keyword-color: #FA183E;
 	--syntax-atom-color: #005cc5;
 	--syntax-string-color: #032f62;
 	--syntax-qualifier-color: #6f42c1;
-	--syntax-type-color: #d73a49;
+	--syntax-type-color: #FA183E;
 	--syntax-comment-color: #6a737d;
 	--syntax-tag-color: #F70BFF;
 	--syntax-attribute-color: #6f42c1;
 	--syntax-link-color: #032f62;
 	--syntax-header-color: #0000ff;
 	--undo-animation-duration: 500ms;
-	--error-color: #d73a49;
+	--error-color: #FA183E;
 	--form-error-background: #ffdce0;
 	--form-error-border-color: #fdaeb7;
 	--form-error-text-color: #9e1c23;
 	--overlay-background-color: rgba(0, 0, 0, 0.4);
 	--dialog-warning-color: #f9c513;
 	--dialog-information-color: #2188ff;
-	--dialog-error-color: #d73a49;
+	--dialog-error-color: #FA183E;
 	--file-warning-background-color: #fff5b1;
 	--file-warning-color: #b08800;
 	--file-warning-border-color: rgba(219, 171, 9, 0.4);
@@ -7086,11 +7086,11 @@ dialog#push-needs-pull-warning .spin {
 	--easing-ease-out-back: cubic-bezier(0.175, 0.885, 0.32, 1.275);
 	--easing-ease-in-back: cubic-bezier(0.6, -0.28, 0.735, 0.045);
 	--easing-ease-out-quint: cubic-bezier(0.23, 1, 0.32, 1);
-	--dialog-progress-background: #28a745;
+	--dialog-progress-background: #FB8CFF;
 	--status-pending-color: #dbab09;
-	--status-error-color: #d73a49;
-	--status-success-color: #28a745;
-	--pr-open-icon-color: #28a745;
+	--status-error-color: #FA183E;
+	--status-success-color: #FB8CFF;
+	--pr-open-icon-color: #FB8CFF;
 	--pr-draft-icon-color: #6a737d;
 	--pr-timeline-line-color: var(--box-border-color);
 	--pr-changes-requested-icon-color: #fff;
@@ -7099,8 +7099,8 @@ dialog#push-needs-pull-warning .spin {
 	--pr-approved-icon-background-color: #2da44e;
 	--pr-commented-icon-color: var(--md-fg-muted-color);
 	--pr-commented-icon-background-color: #eaeef2;
-	--call-to-action-bubble-border-color: #28a745;
-	--call-to-action-bubble-color: #28a745;
+	--call-to-action-bubble-border-color: #FB8CFF;
+	--call-to-action-bubble-color: #FB8CFF;
 	--title-tool-tip-background-color: rgb(236, 236, 236);
 	--title-tool-tip-shadow: 1px 2px 5px 0px rgb(125, 125, 125, 0.5);
 	--md-border-default-color: #d0d7de;
@@ -7351,8 +7351,8 @@ dialog#cherry-pick .no-branches .protip {
 }
 
 :root {
-	--color-new: #28a745;
-	--color-deleted: #d73a49;
+	--color-new: #FB8CFF;
+	--color-deleted: #FA183E;
 	--color-modified: #dbab09;
 	--color-renamed: #6DB2D6;
 	--color-conflicted: #f66a0a;
@@ -7535,25 +7535,25 @@ dialog#cherry-pick .no-branches .protip {
 	--diff-empty-row-gutter-background-color: var(--diff-empty-row-background-color);
 	--syntax-variable-color: #6f42c1;
 	--syntax-alt-variable-color: #00010B;
-	--syntax-keyword-color: #d73a49;
+	--syntax-keyword-color: #FA183E;
 	--syntax-atom-color: #005cc5;
 	--syntax-string-color: #032f62;
 	--syntax-qualifier-color: #6f42c1;
-	--syntax-type-color: #d73a49;
+	--syntax-type-color: #FA183E;
 	--syntax-comment-color: #6a737d;
 	--syntax-tag-color: #F70BFF;
 	--syntax-attribute-color: #6f42c1;
 	--syntax-link-color: #032f62;
 	--syntax-header-color: #0000ff;
 	--undo-animation-duration: 500ms;
-	--error-color: #d73a49;
+	--error-color: #FA183E;
 	--form-error-background: #ffdce0;
 	--form-error-border-color: #fdaeb7;
 	--form-error-text-color: #9e1c23;
 	--overlay-background-color: rgba(0, 0, 0, 0.4);
 	--dialog-warning-color: #f9c513;
 	--dialog-information-color: #2188ff;
-	--dialog-error-color: #d73a49;
+	--dialog-error-color: #FA183E;
 	--file-warning-background-color: #fff5b1;
 	--file-warning-color: #b08800;
 	--file-warning-border-color: rgba(219, 171, 9, 0.4);
@@ -7566,11 +7566,11 @@ dialog#cherry-pick .no-branches .protip {
 	--easing-ease-out-back: cubic-bezier(0.175, 0.885, 0.32, 1.275);
 	--easing-ease-in-back: cubic-bezier(0.6, -0.28, 0.735, 0.045);
 	--easing-ease-out-quint: cubic-bezier(0.23, 1, 0.32, 1);
-	--dialog-progress-background: #28a745;
+	--dialog-progress-background: #FB8CFF;
 	--status-pending-color: #dbab09;
-	--status-error-color: #d73a49;
-	--status-success-color: #28a745;
-	--pr-open-icon-color: #28a745;
+	--status-error-color: #FA183E;
+	--status-success-color: #FB8CFF;
+	--pr-open-icon-color: #FB8CFF;
 	--pr-draft-icon-color: #6a737d;
 	--pr-timeline-line-color: var(--box-border-color);
 	--pr-changes-requested-icon-color: #fff;
@@ -7579,8 +7579,8 @@ dialog#cherry-pick .no-branches .protip {
 	--pr-approved-icon-background-color: #2da44e;
 	--pr-commented-icon-color: var(--md-fg-muted-color);
 	--pr-commented-icon-background-color: #eaeef2;
-	--call-to-action-bubble-border-color: #28a745;
-	--call-to-action-bubble-color: #28a745;
+	--call-to-action-bubble-border-color: #FB8CFF;
+	--call-to-action-bubble-color: #FB8CFF;
 	--title-tool-tip-background-color: rgb(236, 236, 236);
 	--title-tool-tip-shadow: 1px 2px 5px 0px rgb(125, 125, 125, 0.5);
 	--md-border-default-color: #d0d7de;
@@ -24861,7 +24861,7 @@ fieldset.vertical-segmented-control ul:focus li:last-child {
 .ci-status-timed-out,
 .ci-status-action-required,
 .ci-status-failure {
-	color: #d73a49
+	color: #FA183E
 }
 
 .ci-status-cancelled,
@@ -24872,7 +24872,7 @@ fieldset.vertical-segmented-control ul:focus li:last-child {
 }
 
 .ci-status-success {
-	color: #28a745
+	color: #FB8CFF
 }
 
 .toolbar-dropdown.open .pr-badge {
@@ -24910,11 +24910,11 @@ fieldset.vertical-segmented-control ul:focus li:last-child {
 }
 
 .toolbar-dropdown.open .ci-status-failure {
-	color: #d73a49
+	color: #FA183E
 }
 
 .toolbar-dropdown.open .ci-status-success {
-	color: #28a745
+	color: #FB8CFF
 }
 
 .no-branches {
@@ -25290,11 +25290,11 @@ body.platform-win32 .CodeMirror-scrollbar-filler {
 }
 
 .merge-status-component .merge-status-invalid {
-	color: #d73a49
+	color: #FA183E
 }
 
 .merge-status-component .merge-status-clean {
-	color: #28a745
+	color: #FB8CFF
 }
 
 .merge-status-component .merge-message,
@@ -25415,8 +25415,8 @@ dialog#rebase .dialog-footer {
 }
 
 :root {
-	--color-new: #28a745;
-	--color-deleted: #d73a49;
+	--color-new: #FB8CFF;
+	--color-deleted: #FA183E;
 	--color-modified: #dbab09;
 	--color-renamed: #6DB2D6;
 	--color-conflicted: #f66a0a;
@@ -25599,25 +25599,25 @@ dialog#rebase .dialog-footer {
 	--diff-empty-row-gutter-background-color: var(--diff-empty-row-background-color);
 	--syntax-variable-color: #6f42c1;
 	--syntax-alt-variable-color: #00010B;
-	--syntax-keyword-color: #d73a49;
+	--syntax-keyword-color: #FA183E;
 	--syntax-atom-color: #005cc5;
 	--syntax-string-color: #032f62;
 	--syntax-qualifier-color: #6f42c1;
-	--syntax-type-color: #d73a49;
+	--syntax-type-color: #FA183E;
 	--syntax-comment-color: #6a737d;
 	--syntax-tag-color: #F70BFF;
 	--syntax-attribute-color: #6f42c1;
 	--syntax-link-color: #032f62;
 	--syntax-header-color: #0000ff;
 	--undo-animation-duration: 500ms;
-	--error-color: #d73a49;
+	--error-color: #FA183E;
 	--form-error-background: #ffdce0;
 	--form-error-border-color: #fdaeb7;
 	--form-error-text-color: #9e1c23;
 	--overlay-background-color: rgba(0, 0, 0, 0.4);
 	--dialog-warning-color: #f9c513;
 	--dialog-information-color: #2188ff;
-	--dialog-error-color: #d73a49;
+	--dialog-error-color: #FA183E;
 	--file-warning-background-color: #fff5b1;
 	--file-warning-color: #b08800;
 	--file-warning-border-color: rgba(219, 171, 9, 0.4);
@@ -25630,11 +25630,11 @@ dialog#rebase .dialog-footer {
 	--easing-ease-out-back: cubic-bezier(0.175, 0.885, 0.32, 1.275);
 	--easing-ease-in-back: cubic-bezier(0.6, -0.28, 0.735, 0.045);
 	--easing-ease-out-quint: cubic-bezier(0.23, 1, 0.32, 1);
-	--dialog-progress-background: #28a745;
+	--dialog-progress-background: #FB8CFF;
 	--status-pending-color: #dbab09;
-	--status-error-color: #d73a49;
-	--status-success-color: #28a745;
-	--pr-open-icon-color: #28a745;
+	--status-error-color: #FA183E;
+	--status-success-color: #FB8CFF;
+	--pr-open-icon-color: #FB8CFF;
 	--pr-draft-icon-color: #6a737d;
 	--pr-timeline-line-color: var(--box-border-color);
 	--pr-changes-requested-icon-color: #fff;
@@ -25643,8 +25643,8 @@ dialog#rebase .dialog-footer {
 	--pr-approved-icon-background-color: #2da44e;
 	--pr-commented-icon-color: var(--md-fg-muted-color);
 	--pr-commented-icon-background-color: #eaeef2;
-	--call-to-action-bubble-border-color: #28a745;
-	--call-to-action-bubble-color: #28a745;
+	--call-to-action-bubble-border-color: #FB8CFF;
+	--call-to-action-bubble-color: #FB8CFF;
 	--title-tool-tip-background-color: rgb(236, 236, 236);
 	--title-tool-tip-shadow: 1px 2px 5px 0px rgb(125, 125, 125, 0.5);
 	--md-border-default-color: #d0d7de;
@@ -25824,8 +25824,8 @@ dialog#rebase .dialog-footer {
 }
 
 .tutorial-panel-component summary .green-circle {
-	background-color: #28a745;
-	border-color: #28a745;
+	background-color: #FB8CFF;
+	border-color: #FB8CFF;
 	color: var(--badge-icon-color)
 }
 
@@ -27020,7 +27020,7 @@ body.theme-high-contrast .side-by-side-diff-container .row.context .after {
 }
 
 #commit-drag-element .commit-box .count {
-	background-image: linear-gradient(#d73a49, #ce2a39);
+	background-image: linear-gradient(#FA183E, #ce2a39);
 	color: #fff;
 	width: 18px;
 	height: 18px;
@@ -27354,7 +27354,7 @@ body.theme-dark .dropdown-select-button-options {
 }
 
 .ci-check-list-popover .ci-check-run-list-header .ci-check-run-list-title-container .title .failure {
-	color: #d73a49
+	color: #FA183E
 }
 
 .ci-check-list-popover .ci-check-run-list-header .ci-check-run-list-title-container .title .pending {
@@ -27383,11 +27383,11 @@ body.theme-dark .dropdown-select-button-options {
 }
 
 .ci-check-list-popover .ci-check-run-list-header .completeness-indicator .completeness-indicator-success {
-	color: #28a745
+	color: #FB8CFF
 }
 
 .ci-check-list-popover .ci-check-run-list-header .completeness-indicator .completeness-indicator-error {
-	color: #d73a49
+	color: #FA183E
 }
 
 .ci-check-list-popover .ci-check-run-list-header .completeness-indicator .donut>.error,
@@ -27395,7 +27395,7 @@ body.theme-dark .dropdown-select-button-options {
 .ci-check-list-popover .ci-check-run-list-header .completeness-indicator .donut>.action_required,
 .ci-check-list-popover .ci-check-run-list-header .completeness-indicator .donut>.timed_out,
 .ci-check-list-popover .ci-check-run-list-header .completeness-indicator .donut>.failure {
-	fill: #d73a49
+	fill: #FA183E
 }
 
 .ci-check-list-popover .ci-check-run-list-header .completeness-indicator .donut>.expected,
@@ -27408,7 +27408,7 @@ body.theme-dark .dropdown-select-button-options {
 }
 
 .ci-check-list-popover .ci-check-run-list-header .completeness-indicator .donut>.success {
-	fill: #28a745
+	fill: #FB8CFF
 }
 
 .ci-check-list-popover .ci-check-run-list-header .completeness-indicator .donut>.neutral,
